@@ -1,6 +1,6 @@
-*Random dude with a smile on his face*
+######Random dude with a smile on his face
 
-### Stuff I utilized:
+#### Stuff I utilized:
 
   ### IDEs:
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width=6.5% align="left">
