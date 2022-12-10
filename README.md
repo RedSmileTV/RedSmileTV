@@ -1,4 +1,4 @@
-# Random dude with a smile on his face
+## RedSmileTV: Random dude with a smile on his face
 
 ### Stuff I utilized:
 
