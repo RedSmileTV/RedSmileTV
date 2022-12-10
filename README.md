@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width=8% align="left">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width=8.5%>
 
+  #### Frameworks:
+  <img src="https://avatars.githubusercontent.com/u/1390178?s=280&v=4" width=5%>
 
   #### IDEs:
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width=6.5% align="left">
