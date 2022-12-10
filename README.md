@@ -3,7 +3,7 @@
 ### Stuff I utilized:
   
   #### Languages:
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width=7%>
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width=8.5%>
 
 
   #### IDEs:
