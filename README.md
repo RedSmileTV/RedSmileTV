@@ -1,9 +1,8 @@
 ## RedSmileTV: Random dude with a smile on his face
 
 ## Stats
-<figure markdown>
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redsmiletv&show_icons=true&theme=darcula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redsmiletv&layout=compact&theme=darcula)
-</figure>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redsmiletv&show_icons=true&theme=darcula) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redsmiletv&layout=compact&theme=darcula)
 
 
 
