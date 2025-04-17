@@ -1,4 +1,4 @@
-## Welcome and take a look at my GitHub profile
+## Welcome to my GitHub profile
 
 ## My Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=redsmiletv&show_icons=true&theme=darcula) <br />
