@@ -5,10 +5,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redsmiletv&layout=compact&theme=darcula)
 -->
 
+<!--
 ## IDEs and Editors I use
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" width=6.5% align="left">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" width=6.5%>
-
+-->
 
 <!--
   #### Languages:
